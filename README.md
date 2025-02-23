@@ -1,18 +1,31 @@
-# 💫 About Me:
-Name: Rahul Arakeri<br>Year: Second-year student at SRM KTR<br> Current Learning: Java and C in Data Structures and Algorithms (DSA)<br>Programming Skills:<br>  C++<br>  Flutter (for app development)<br>Interests: Coding, software development, and problem-solving
+<div align="center" style="width: 1061; height: 300px; overflow: hidden; "display: flex; align-items: center; justify-content: center;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJlcWNqejl2ajgzbWFmbGRneG9kejY2ZjBta2E5NWFva2UxeXMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTmLmZOdGoCwyIkZUY/giphy.gif" style="width: 100%; height: 300px; object-fit: cover;" />
+</div>
 
+##
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul._arakeri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-arakeri-0aa7a2322/) 
+<!-- Second image and text -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img 
+      height="200" 
+      src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3U1NHdya3hmNjk2czUyYWlrMDRkeGFhd2dvaWUwMHV5bGUxM3d4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+      style="position: right; top: 20px; left: 0; margin: 20px; margin-bottom: 50px;" 
+    />
+    <div>
+      <h1 style="margin: 20px;">Hi 👋, I'm Rahul Arakeri</h1>
+      <h3 style="margin: 5px;">A passionate FullStack developer from India</h3>
+    </div>
+  </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulrarakeri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulrarakeri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrarakeri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ##
 
----
-[![](https://visitcount.itsvg.in/api?id=rahulrarakeri&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-x777&label=Profile%20views&color=0e75b6&style=flat" alt="dev-x777" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-x777" alt="dev-x777" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devjeetsaha7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devjeetsaha7777" height="30" width="40" /></a>
+<a href="https://fb.com/devjeetsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devjeetsaha" height="30" width="40" /></a>
+<a href="https://instagram.com/-.dev_999._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="-.dev_999._" height="30" width="40" /></a>
+</p>
