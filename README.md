@@ -14,8 +14,8 @@
       style="position: right; top: 20px; left: 0; margin: 20px; margin-bottom: 50px;" 
     />
     <div>
-      <h1 style="margin: 20px;">Hi 👋, I'm Devjeet Saha</h1>
-      <h3 style="margin: 5px;">A passionate FullStack developer from India</h3>
+      <h1 style="margin: 20px;">Hi 👋, I'm Rahul Arakeri</h1>
+      <h3 style="margin: 5px;">A passionate Application and Web3 Devloper from India</h3>
     </div>
   </div>
 
